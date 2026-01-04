@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pattiyal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pattiyal"
+	}
+}
