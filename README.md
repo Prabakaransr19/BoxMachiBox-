@@ -18,10 +18,10 @@ AI-powered Formula 1 predictions with **93.89% accuracy**.
 - Plotly
 
 ## 📦 Installation
-```bash
+
 pip install -r requirements.txt
 streamlit run app_production.py
-```
+
 
 ## 👨‍💻 Author
 Sarvatarshan & Prabakaran
