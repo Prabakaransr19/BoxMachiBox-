@@ -54,7 +54,7 @@ except Exception as e:
 with st.sidebar:
     st.image(
         "https://via.placeholder.com/200x80/E10600/FFFFFF?text=F1+Predictor",
-        use_container_width=True
+        use_column_width=True
     )
 
     st.markdown("### 📊 Model Stats")
@@ -104,7 +104,7 @@ with tab1:
         grid_position = st.slider("Qualifying Position", 1, 20, 5)
 
     with col2:
-        if st.button("🎯 Predict Podium", use_container_width=True):
+        if st.button("🎯 Predict Podium", use_column_width=True):
 
             base_prob = 0.5
             grid_factor = (21 - grid_position) / 20
@@ -126,7 +126,7 @@ with tab1:
                 value=final_prob * 100,
                 gauge={'axis': {'range': [0, 100]}}
             ))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, use_column_width=True)
 
 # ---------------- TAB 2 ----------------
 with tab2:
@@ -139,7 +139,7 @@ with tab2:
         y='total_points',
         color='constructorName'
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, use_column_width=True)
 
 # ---------------- TAB 3 ----------------
 with tab3:
