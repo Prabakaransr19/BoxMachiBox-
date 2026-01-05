@@ -104,7 +104,7 @@ with tab1:
         grid_position = st.slider("Qualifying Position", 1, 20, 5)
 
     with col2:
-        if st.button("🎯 Predict Podium", use_column_width=True):
+        if st.button("🎯 Predict Podium"):
 
             base_prob = 0.5
             grid_factor = (21 - grid_position) / 20
