@@ -6,7 +6,6 @@ venv/
 
 # Data files (too large)
 data/
-*.csv
 f1-predictor-v3-main/
 
 # IDE
