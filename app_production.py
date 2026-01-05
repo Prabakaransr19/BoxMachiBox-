@@ -31,7 +31,7 @@ st.markdown("""
 # Load models and data
 @st.cache_resource
 def load_production_model():
-    with open('my_f1_model_FINAL_OPTIMIZED.pkl', 'rb') as f:
+    with open('f1_PRODUCTION_READY.pkl', 'rb') as f:
         return pickle.load(f)
 
 @st.cache_data
