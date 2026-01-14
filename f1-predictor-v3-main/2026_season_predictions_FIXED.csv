@@ -1,0 +1,25 @@
+round,circuit,country,predicted_winner,winner_team,winner_probability,second_choice,second_probability,third_choice,third_probability,confidence
+1,Bahrain International Circuit,Bahrain,George Russell,Mercedes,0.5728088,Max Verstappen,0.21313456,Lando Norris,0.055100344,Medium
+2,Jeddah Corniche Circuit,Saudi Arabia,George Russell,Mercedes,0.5728088,Max Verstappen,0.21313456,Lando Norris,0.055100344,Medium
+3,Albert Park Circuit,Australia,George Russell,Mercedes,0.5728088,Max Verstappen,0.21313456,Lando Norris,0.055100344,Medium
+4,Suzuka Circuit,Japan,George Russell,Mercedes,0.5728088,Max Verstappen,0.20322365,Lando Norris,0.055100344,Medium
+5,Shanghai International Circuit,China,George Russell,Mercedes,0.5728088,Max Verstappen,0.20322365,Lando Norris,0.055100344,Medium
+6,Miami International Autodrome,USA,George Russell,Mercedes,0.5728088,Max Verstappen,0.20790914,Lando Norris,0.052124243,Medium
+7,Autodromo Enzo e Dino Ferrari,Italy,George Russell,Mercedes,0.5728088,Max Verstappen,0.20790914,Lando Norris,0.052124243,Medium
+8,Circuit de Monaco,Monaco,George Russell,Mercedes,0.5728088,Max Verstappen,0.20790914,Lando Norris,0.052124243,Medium
+9,Circuit de Barcelona-Catalunya,Spain,George Russell,Mercedes,0.5728088,Max Verstappen,0.20790914,Lando Norris,0.052124243,Medium
+10,Circuit Gilles Villeneuve,Canada,George Russell,Mercedes,0.57626534,Max Verstappen,0.20790914,Lando Norris,0.052124243,Medium
+11,Red Bull Ring,Austria,George Russell,Mercedes,0.57626534,Max Verstappen,0.2022294,Lando Norris,0.050890308,Medium
+12,Silverstone Circuit,UK,George Russell,Mercedes,0.57626534,Max Verstappen,0.2022294,Lando Norris,0.050890308,Medium
+13,Hungaroring,Hungary,George Russell,Mercedes,0.57626534,Max Verstappen,0.2022294,Lando Norris,0.050890308,Medium
+14,Circuit de Spa-Francorchamps,Belgium,George Russell,Mercedes,0.57626534,Max Verstappen,0.2022294,Lando Norris,0.050890308,Medium
+15,Circuit Zandvoort,Netherlands,George Russell,Mercedes,0.57626534,Max Verstappen,0.2022294,Lando Norris,0.050890308,Medium
+16,Autodromo Nazionale di Monza,Italy,George Russell,Mercedes,0.57626534,Max Verstappen,0.20012991,Lando Norris,0.050890308,Medium
+17,Baku City Circuit,Azerbaijan,George Russell,Mercedes,0.57626534,Max Verstappen,0.20012991,Lando Norris,0.050890308,Medium
+18,Marina Bay Street Circuit,Singapore,George Russell,Mercedes,0.5712683,Max Verstappen,0.20012991,Lando Norris,0.050890308,Medium
+19,Circuit of the Americas,USA,George Russell,Mercedes,0.5844768,Max Verstappen,0.20012991,Lando Norris,0.050890308,Medium
+20,Autodromo Hermanos Rodriguez,Mexico,George Russell,Mercedes,0.57763535,Max Verstappen,0.20012991,Lando Norris,0.04955408,Medium
+21,Autodromo Jose Carlos Pace,Brazil,George Russell,Mercedes,0.57763535,Max Verstappen,0.23879167,Lando Norris,0.054174524,Medium
+22,Las Vegas Street Circuit,USA,George Russell,Mercedes,0.57763535,Max Verstappen,0.24112548,Lando Norris,0.054174524,Medium
+23,Lusail International Circuit,Qatar,George Russell,Mercedes,0.57763535,Max Verstappen,0.24112548,Lando Norris,0.054174524,Medium
+24,Yas Marina Circuit,UAE,George Russell,Mercedes,0.57763535,Max Verstappen,0.24112548,Lando Norris,0.054174524,Medium

@@ -1,0 +1,25 @@
+round,circuit,country,circuit_type,most_likely_winner,winner_probability,confidence,second_likely,second_probability,third_likely,third_probability,fourth_likely,fourth_probability,fifth_likely,fifth_probability
+1,Bahrain International Circuit,Bahrain,Permanent,George Russell,0.5793,High,Max Verstappen,0.2818,Lando Norris,0.0768,Charles Leclerc,0.0507,Oscar Piastri,0.0026
+2,Jeddah Corniche Circuit,Saudi Arabia,Street,George Russell,0.5777,High,Max Verstappen,0.283,Lando Norris,0.0759,Charles Leclerc,0.0518,Oscar Piastri,0.0035
+3,Albert Park Circuit,Australia,Permanent,George Russell,0.5798,High,Max Verstappen,0.2856,Lando Norris,0.0757,Charles Leclerc,0.0479,Lewis Hamilton,0.0023
+4,Suzuka Circuit,Japan,Permanent,George Russell,0.5833,High,Max Verstappen,0.2819,Lando Norris,0.0746,Charles Leclerc,0.0484,Oscar Piastri,0.0031
+5,Shanghai International Circuit,China,Permanent,George Russell,0.5836,High,Max Verstappen,0.2776,Lando Norris,0.0766,Charles Leclerc,0.0504,Oscar Piastri,0.0027
+6,Miami International Autodrome,USA,Street,George Russell,0.5817,High,Max Verstappen,0.2908,Lando Norris,0.068,Charles Leclerc,0.0483,Lewis Hamilton,0.0022
+7,Autodromo Enzo e Dino Ferrari,Italy,Permanent,George Russell,0.5798,High,Max Verstappen,0.2839,Lando Norris,0.0708,Charles Leclerc,0.0539,Oscar Piastri,0.003
+8,Circuit de Monaco,Monaco,Street,George Russell,0.577,High,Max Verstappen,0.2831,Lando Norris,0.0778,Charles Leclerc,0.0527,Oscar Piastri,0.0033
+9,Circuit de Barcelona-Catalunya,Spain,Permanent,George Russell,0.5889,High,Max Verstappen,0.2831,Lando Norris,0.0702,Charles Leclerc,0.0475,Oscar Piastri,0.0024
+10,Circuit Gilles Villeneuve,Canada,Permanent,George Russell,0.5843,High,Max Verstappen,0.2857,Lando Norris,0.0711,Charles Leclerc,0.0499,Oscar Piastri,0.0021
+11,Red Bull Ring,Austria,Permanent,George Russell,0.5904,High,Max Verstappen,0.2755,Lando Norris,0.0762,Charles Leclerc,0.0478,Oscar Piastri,0.0027
+12,Silverstone Circuit,UK,Permanent,George Russell,0.5932,High,Max Verstappen,0.274,Lando Norris,0.0761,Charles Leclerc,0.0476,Oscar Piastri,0.0022
+13,Hungaroring,Hungary,Permanent,George Russell,0.597,High,Max Verstappen,0.2725,Lando Norris,0.0713,Charles Leclerc,0.0484,Lewis Hamilton,0.0025
+14,Circuit de Spa-Francorchamps,Belgium,Permanent,George Russell,0.5943,High,Max Verstappen,0.2736,Lando Norris,0.0715,Charles Leclerc,0.0499,Oscar Piastri,0.003
+15,Circuit Zandvoort,Netherlands,Permanent,George Russell,0.5971,High,Max Verstappen,0.2783,Lando Norris,0.068,Charles Leclerc,0.0467,Oscar Piastri,0.0026
+16,Autodromo Nazionale di Monza,Italy,Permanent,George Russell,0.5911,High,Max Verstappen,0.2765,Lando Norris,0.0733,Charles Leclerc,0.0495,Oscar Piastri,0.0024
+17,Baku City Circuit,Azerbaijan,Street,George Russell,0.594,High,Max Verstappen,0.2804,Lando Norris,0.0704,Charles Leclerc,0.0447,Oscar Piastri,0.0034
+18,Marina Bay Street Circuit,Singapore,Street,George Russell,0.59,High,Max Verstappen,0.2807,Lando Norris,0.0685,Charles Leclerc,0.0519,Lewis Hamilton,0.0022
+19,Circuit of the Americas,USA,Permanent,George Russell,0.5973,High,Max Verstappen,0.2754,Lando Norris,0.0697,Charles Leclerc,0.0496,Oscar Piastri,0.0018
+20,Autodromo Hermanos Rodriguez,Mexico,Permanent,George Russell,0.6031,High,Max Verstappen,0.2731,Lando Norris,0.0688,Charles Leclerc,0.0453,Oscar Piastri,0.0016
+21,Autodromo Jose Carlos Pace,Brazil,Permanent,George Russell,0.5576,High,Max Verstappen,0.3176,Lando Norris,0.074,Charles Leclerc,0.0425,Oscar Piastri,0.0019
+22,Las Vegas Street Circuit,USA,Street,George Russell,0.568,High,Max Verstappen,0.312,Lando Norris,0.069,Charles Leclerc,0.0411,Oscar Piastri,0.0026
+23,Lusail International Circuit,Qatar,Permanent,George Russell,0.5569,High,Max Verstappen,0.3182,Lando Norris,0.0727,Charles Leclerc,0.0417,Oscar Piastri,0.0021
+24,Yas Marina Circuit,UAE,Permanent,George Russell,0.5626,High,Max Verstappen,0.3146,Lando Norris,0.074,Charles Leclerc,0.0416,Oscar Piastri,0.0018

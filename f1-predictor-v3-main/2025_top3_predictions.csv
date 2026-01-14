@@ -1,0 +1,20 @@
+season,round,favorite,favorite_prob,second,second_prob,third,third_prob,actual_winner,predicted_in_top3
+2025,1,Lando Norris,0.9075527,Oscar Piastri,0.18393391,Max Verstappen,0.045737173,Lando Norris,True
+2025,2,Oscar Piastri,0.8213155,Max Verstappen,0.17429496,George Russell,0.10405716,Oscar Piastri,True
+2025,3,Max Verstappen,0.8249308,Oscar Piastri,0.47673836,Charles Leclerc,0.02309085,Max Verstappen,True
+2025,4,Oscar Piastri,0.99421823,George Russell,0.4578153,Andrea Kimi Antonelli,0.03498495,Oscar Piastri,True
+2025,5,Max Verstappen,0.86357385,George Russell,0.19291875,Oscar Piastri,0.105818495,Oscar Piastri,True
+2025,6,Max Verstappen,0.6649161,George Russell,0.081464164,Lando Norris,0.013976967,Oscar Piastri,False
+2025,7,Oscar Piastri,0.8958022,Max Verstappen,0.6300663,George Russell,0.5682953,Max Verstappen,True
+2025,8,Lando Norris,0.8929236,Oscar Piastri,0.13135372,Charles Leclerc,0.12584609,Lando Norris,True
+2025,9,Max Verstappen,0.42712426,Oscar Piastri,0.09349738,Lando Norris,0.024462624,Oscar Piastri,True
+2025,10,Max Verstappen,0.31380904,George Russell,0.10122198,Oscar Piastri,0.077811114,George Russell,True
+2025,11,Charles Leclerc,0.32499796,Oscar Piastri,0.09189294,Lando Norris,0.08513423,Lando Norris,True
+2025,12,Max Verstappen,0.5131736,George Russell,0.32121524,Oscar Piastri,0.046336107,Lando Norris,False
+2025,13,Max Verstappen,0.17252177,Oscar Piastri,0.092587374,Lando Norris,0.03029693,Oscar Piastri,True
+2025,14,Charles Leclerc,0.33907092,Oscar Piastri,0.044577815,Lando Norris,0.026148349,Lando Norris,True
+2025,15,Oscar Piastri,0.3204479,Max Verstappen,0.1555687,Lando Norris,0.018360848,Oscar Piastri,True
+2025,16,Max Verstappen,0.7365312,Oscar Piastri,0.11379393,Charles Leclerc,0.030254494,Max Verstappen,True
+2025,17,Max Verstappen,0.66095686,Oscar Piastri,0.15977247,George Russell,0.044406626,Max Verstappen,True
+2025,18,George Russell,0.9236765,Max Verstappen,0.23459414,Oscar Piastri,0.0747156,George Russell,True
+2025,19,Max Verstappen,0.7151071,George Russell,0.57155174,Lando Norris,0.049899284,Max Verstappen,True

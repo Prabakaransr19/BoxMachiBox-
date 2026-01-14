@@ -1,0 +1,24 @@
+# Core Dependencies
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.3.4
+
+# Machine Learning
+catboost==1.2.8
+xgboost==3.1.1
+lightgbm==4.6.0
+scikit-learn==1.7.2
+
+# F1 Data Collection
+fastf1==3.6.1
+requests==2.32.5
+
+# Data Processing
+openpyxl==3.1.2
+
+# Experiment Tracking (optional)
+mlflow==3.5.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3

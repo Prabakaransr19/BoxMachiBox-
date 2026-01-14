@@ -6,7 +6,9 @@ venv/
 
 # Data files (too large)
 data/
-f1-predictor-v3-main/
+!f1-predictor-v3-main/
+!f1-predictor-v3-main/data/
+!f1-predictor-v3-main/*.py
 
 # IDE
 .vscode/

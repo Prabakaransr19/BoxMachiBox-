@@ -1,0 +1,46 @@
+
+================================================================================
+F1 2026 SEASON PREDICTION REPORT
+================================================================================
+
+MODEL PERFORMANCE:
+------------------
+- Trained on: 2022-2024 seasons
+- Tested on: 2025 season
+- Exact winner accuracy: 52.63% (10/19 races)
+- High-confidence accuracy: 100% (10/10 races with 70%+ confidence)
+
+2026 PREDICTIONS:
+-----------------
+Total races: 24
+Championship favorite: Oscar Piastri (600 points)
+Runner-up: George Russell (432 points)
+Third place: Lando Norris (360 points)
+
+RACE WINS PREDICTION:
+--------------------
+predicted_winner
+Oscar Piastri    24
+
+CONFIDENCE LEVELS:
+------------------
+confidence
+Low    24
+
+KEY INSIGHTS:
+-------------
+- Most dominant driver: Oscar Piastri (24 predicted wins)
+- Closest championship battle: Top 2 separated by 168 points
+- Circuit diversity: 1 different race winners predicted
+
+METHODOLOGY:
+------------
+- Ensemble XGBoost model with 69 engineered features
+- Momentum-based driver form analysis
+- Circuit-specific historical performance weighting
+- Conservative predictions for high reliability
+
+================================================================================
+Full predictions saved to: 2026_season_predictions.csv
+Championship standings: 2026_championship_prediction.csv
+================================================================================

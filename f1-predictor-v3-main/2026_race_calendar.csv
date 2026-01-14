@@ -1,0 +1,25 @@
+round,circuit_name,country,circuit_type
+1,Bahrain International Circuit,Bahrain,Permanent
+2,Jeddah Corniche Circuit,Saudi Arabia,Street
+3,Albert Park Circuit,Australia,Permanent
+4,Suzuka Circuit,Japan,Permanent
+5,Shanghai International Circuit,China,Permanent
+6,Miami International Autodrome,USA,Street
+7,Autodromo Enzo e Dino Ferrari,Italy,Permanent
+8,Circuit de Monaco,Monaco,Street
+9,Circuit de Barcelona-Catalunya,Spain,Permanent
+10,Circuit Gilles Villeneuve,Canada,Permanent
+11,Red Bull Ring,Austria,Permanent
+12,Silverstone Circuit,UK,Permanent
+13,Hungaroring,Hungary,Permanent
+14,Circuit de Spa-Francorchamps,Belgium,Permanent
+15,Circuit Zandvoort,Netherlands,Permanent
+16,Autodromo Nazionale di Monza,Italy,Permanent
+17,Baku City Circuit,Azerbaijan,Street
+18,Marina Bay Street Circuit,Singapore,Street
+19,Circuit of the Americas,USA,Permanent
+20,Autodromo Hermanos Rodriguez,Mexico,Permanent
+21,Autodromo Jose Carlos Pace,Brazil,Permanent
+22,Las Vegas Street Circuit,USA,Street
+23,Lusail International Circuit,Qatar,Permanent
+24,Yas Marina Circuit,UAE,Permanent

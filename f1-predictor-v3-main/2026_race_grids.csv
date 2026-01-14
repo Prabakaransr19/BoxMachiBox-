@@ -1,0 +1,649 @@
+season,round,circuit_name,circuit_type,driverId,givenName,familyName,constructorName,estimated_grid_position,momentum_score,driver_2025_points,driver_2025_wins,driver_consistency,team_2025_points
+2026,1,Bahrain International Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,1,Bahrain International Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,1,Bahrain International Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,1,Bahrain International Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,1,Bahrain International Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,1,Bahrain International Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,1,Bahrain International Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,1,Bahrain International Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,1,Bahrain International Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,1,Bahrain International Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,1,Bahrain International Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,1,Bahrain International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,1,Bahrain International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,1,Bahrain International Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,1,Bahrain International Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,1,Bahrain International Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,1,Bahrain International Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,1,Bahrain International Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,1,Bahrain International Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,1,Bahrain International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,1,Bahrain International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,1,Bahrain International Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,1,Bahrain International Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,1,Bahrain International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,1,Bahrain International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,1,Bahrain International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,1,Bahrain International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,2,Jeddah Corniche Circuit,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,2,Jeddah Corniche Circuit,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,2,Jeddah Corniche Circuit,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,2,Jeddah Corniche Circuit,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,2,Jeddah Corniche Circuit,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,2,Jeddah Corniche Circuit,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,2,Jeddah Corniche Circuit,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,2,Jeddah Corniche Circuit,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,2,Jeddah Corniche Circuit,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,2,Jeddah Corniche Circuit,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,2,Jeddah Corniche Circuit,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,2,Jeddah Corniche Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,2,Jeddah Corniche Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,2,Jeddah Corniche Circuit,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,2,Jeddah Corniche Circuit,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,2,Jeddah Corniche Circuit,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,2,Jeddah Corniche Circuit,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,2,Jeddah Corniche Circuit,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,2,Jeddah Corniche Circuit,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,2,Jeddah Corniche Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,2,Jeddah Corniche Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,2,Jeddah Corniche Circuit,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,2,Jeddah Corniche Circuit,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,2,Jeddah Corniche Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,2,Jeddah Corniche Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,2,Jeddah Corniche Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,2,Jeddah Corniche Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,3,Albert Park Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,3,Albert Park Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,3,Albert Park Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,3,Albert Park Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,3,Albert Park Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,3,Albert Park Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,3,Albert Park Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,3,Albert Park Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,3,Albert Park Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,3,Albert Park Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,3,Albert Park Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,3,Albert Park Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,3,Albert Park Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,3,Albert Park Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,3,Albert Park Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,3,Albert Park Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,3,Albert Park Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,3,Albert Park Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,3,Albert Park Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,3,Albert Park Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,3,Albert Park Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,3,Albert Park Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,3,Albert Park Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,3,Albert Park Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,3,Albert Park Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,3,Albert Park Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,3,Albert Park Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,4,Suzuka Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,4,Suzuka Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,4,Suzuka Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,4,Suzuka Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,4,Suzuka Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,4,Suzuka Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,4,Suzuka Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,4,Suzuka Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,4,Suzuka Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,4,Suzuka Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,4,Suzuka Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,4,Suzuka Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,4,Suzuka Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,4,Suzuka Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,4,Suzuka Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,4,Suzuka Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,4,Suzuka Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,4,Suzuka Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,4,Suzuka Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,4,Suzuka Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,4,Suzuka Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,4,Suzuka Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,4,Suzuka Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,4,Suzuka Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,4,Suzuka Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,4,Suzuka Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,4,Suzuka Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,5,Shanghai International Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,5,Shanghai International Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,5,Shanghai International Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,5,Shanghai International Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,5,Shanghai International Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,5,Shanghai International Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,5,Shanghai International Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,5,Shanghai International Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,5,Shanghai International Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,5,Shanghai International Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,5,Shanghai International Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,5,Shanghai International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,5,Shanghai International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,5,Shanghai International Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,5,Shanghai International Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,5,Shanghai International Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,5,Shanghai International Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,5,Shanghai International Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,5,Shanghai International Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,5,Shanghai International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,5,Shanghai International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,5,Shanghai International Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,5,Shanghai International Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,5,Shanghai International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,5,Shanghai International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,5,Shanghai International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,5,Shanghai International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,6,Miami International Autodrome,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,6,Miami International Autodrome,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,6,Miami International Autodrome,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,6,Miami International Autodrome,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,6,Miami International Autodrome,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,6,Miami International Autodrome,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,6,Miami International Autodrome,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,6,Miami International Autodrome,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,6,Miami International Autodrome,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,6,Miami International Autodrome,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,6,Miami International Autodrome,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,6,Miami International Autodrome,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,6,Miami International Autodrome,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,6,Miami International Autodrome,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,6,Miami International Autodrome,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,6,Miami International Autodrome,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,6,Miami International Autodrome,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,6,Miami International Autodrome,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,6,Miami International Autodrome,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,6,Miami International Autodrome,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,6,Miami International Autodrome,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,6,Miami International Autodrome,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,6,Miami International Autodrome,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,6,Miami International Autodrome,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,6,Miami International Autodrome,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,6,Miami International Autodrome,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,6,Miami International Autodrome,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,7,Autodromo Enzo e Dino Ferrari,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,8,Circuit de Monaco,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,8,Circuit de Monaco,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,8,Circuit de Monaco,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,8,Circuit de Monaco,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,8,Circuit de Monaco,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,8,Circuit de Monaco,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,8,Circuit de Monaco,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,8,Circuit de Monaco,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,8,Circuit de Monaco,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,8,Circuit de Monaco,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,8,Circuit de Monaco,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,8,Circuit de Monaco,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,8,Circuit de Monaco,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,8,Circuit de Monaco,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,8,Circuit de Monaco,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,8,Circuit de Monaco,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,8,Circuit de Monaco,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,8,Circuit de Monaco,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,8,Circuit de Monaco,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,8,Circuit de Monaco,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,8,Circuit de Monaco,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,8,Circuit de Monaco,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,8,Circuit de Monaco,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,8,Circuit de Monaco,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,8,Circuit de Monaco,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,8,Circuit de Monaco,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,8,Circuit de Monaco,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,9,Circuit de Barcelona-Catalunya,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,10,Circuit Gilles Villeneuve,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,10,Circuit Gilles Villeneuve,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,10,Circuit Gilles Villeneuve,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,10,Circuit Gilles Villeneuve,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,10,Circuit Gilles Villeneuve,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,10,Circuit Gilles Villeneuve,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,10,Circuit Gilles Villeneuve,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,10,Circuit Gilles Villeneuve,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,10,Circuit Gilles Villeneuve,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,10,Circuit Gilles Villeneuve,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,10,Circuit Gilles Villeneuve,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,10,Circuit Gilles Villeneuve,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,10,Circuit Gilles Villeneuve,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,10,Circuit Gilles Villeneuve,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,10,Circuit Gilles Villeneuve,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,10,Circuit Gilles Villeneuve,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,10,Circuit Gilles Villeneuve,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,10,Circuit Gilles Villeneuve,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,10,Circuit Gilles Villeneuve,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,10,Circuit Gilles Villeneuve,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,10,Circuit Gilles Villeneuve,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,10,Circuit Gilles Villeneuve,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,10,Circuit Gilles Villeneuve,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,10,Circuit Gilles Villeneuve,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,10,Circuit Gilles Villeneuve,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,10,Circuit Gilles Villeneuve,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,10,Circuit Gilles Villeneuve,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,11,Red Bull Ring,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,11,Red Bull Ring,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,11,Red Bull Ring,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,11,Red Bull Ring,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,11,Red Bull Ring,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,11,Red Bull Ring,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,11,Red Bull Ring,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,11,Red Bull Ring,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,11,Red Bull Ring,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,11,Red Bull Ring,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,11,Red Bull Ring,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,11,Red Bull Ring,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,11,Red Bull Ring,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,11,Red Bull Ring,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,11,Red Bull Ring,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,11,Red Bull Ring,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,11,Red Bull Ring,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,11,Red Bull Ring,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,11,Red Bull Ring,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,11,Red Bull Ring,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,11,Red Bull Ring,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,11,Red Bull Ring,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,11,Red Bull Ring,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,11,Red Bull Ring,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,11,Red Bull Ring,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,11,Red Bull Ring,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,11,Red Bull Ring,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,12,Silverstone Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,12,Silverstone Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,12,Silverstone Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,12,Silverstone Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,12,Silverstone Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,12,Silverstone Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,12,Silverstone Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,12,Silverstone Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,12,Silverstone Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,12,Silverstone Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,12,Silverstone Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,12,Silverstone Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,12,Silverstone Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,12,Silverstone Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,12,Silverstone Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,12,Silverstone Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,12,Silverstone Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,12,Silverstone Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,12,Silverstone Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,12,Silverstone Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,12,Silverstone Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,12,Silverstone Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,12,Silverstone Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,12,Silverstone Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,12,Silverstone Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,12,Silverstone Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,12,Silverstone Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,13,Hungaroring,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,13,Hungaroring,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,13,Hungaroring,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,13,Hungaroring,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,13,Hungaroring,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,13,Hungaroring,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,13,Hungaroring,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,13,Hungaroring,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,13,Hungaroring,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,13,Hungaroring,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,13,Hungaroring,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,13,Hungaroring,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,13,Hungaroring,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,13,Hungaroring,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,13,Hungaroring,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,13,Hungaroring,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,13,Hungaroring,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,13,Hungaroring,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,13,Hungaroring,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,13,Hungaroring,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,13,Hungaroring,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,13,Hungaroring,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,13,Hungaroring,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,13,Hungaroring,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,13,Hungaroring,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,13,Hungaroring,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,13,Hungaroring,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,14,Circuit de Spa-Francorchamps,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,15,Circuit Zandvoort,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,15,Circuit Zandvoort,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,15,Circuit Zandvoort,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,15,Circuit Zandvoort,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,15,Circuit Zandvoort,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,15,Circuit Zandvoort,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,15,Circuit Zandvoort,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,15,Circuit Zandvoort,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,15,Circuit Zandvoort,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,15,Circuit Zandvoort,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,15,Circuit Zandvoort,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,15,Circuit Zandvoort,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,15,Circuit Zandvoort,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,15,Circuit Zandvoort,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,15,Circuit Zandvoort,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,15,Circuit Zandvoort,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,15,Circuit Zandvoort,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,15,Circuit Zandvoort,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,15,Circuit Zandvoort,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,15,Circuit Zandvoort,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,15,Circuit Zandvoort,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,15,Circuit Zandvoort,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,15,Circuit Zandvoort,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,15,Circuit Zandvoort,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,15,Circuit Zandvoort,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,15,Circuit Zandvoort,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,15,Circuit Zandvoort,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,16,Autodromo Nazionale di Monza,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,16,Autodromo Nazionale di Monza,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,16,Autodromo Nazionale di Monza,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,16,Autodromo Nazionale di Monza,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,16,Autodromo Nazionale di Monza,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,16,Autodromo Nazionale di Monza,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,16,Autodromo Nazionale di Monza,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,16,Autodromo Nazionale di Monza,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,16,Autodromo Nazionale di Monza,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,16,Autodromo Nazionale di Monza,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,16,Autodromo Nazionale di Monza,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,16,Autodromo Nazionale di Monza,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,16,Autodromo Nazionale di Monza,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,16,Autodromo Nazionale di Monza,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,16,Autodromo Nazionale di Monza,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,16,Autodromo Nazionale di Monza,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,16,Autodromo Nazionale di Monza,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,16,Autodromo Nazionale di Monza,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,16,Autodromo Nazionale di Monza,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,16,Autodromo Nazionale di Monza,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,16,Autodromo Nazionale di Monza,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,16,Autodromo Nazionale di Monza,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,16,Autodromo Nazionale di Monza,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,16,Autodromo Nazionale di Monza,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,16,Autodromo Nazionale di Monza,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,16,Autodromo Nazionale di Monza,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,16,Autodromo Nazionale di Monza,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,17,Baku City Circuit,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,17,Baku City Circuit,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,17,Baku City Circuit,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,17,Baku City Circuit,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,17,Baku City Circuit,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,17,Baku City Circuit,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,17,Baku City Circuit,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,17,Baku City Circuit,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,17,Baku City Circuit,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,17,Baku City Circuit,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,17,Baku City Circuit,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,17,Baku City Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,17,Baku City Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,17,Baku City Circuit,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,17,Baku City Circuit,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,17,Baku City Circuit,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,17,Baku City Circuit,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,17,Baku City Circuit,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,17,Baku City Circuit,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,17,Baku City Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,17,Baku City Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,17,Baku City Circuit,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,17,Baku City Circuit,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,17,Baku City Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,17,Baku City Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,17,Baku City Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,17,Baku City Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,18,Marina Bay Street Circuit,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,18,Marina Bay Street Circuit,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,18,Marina Bay Street Circuit,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,18,Marina Bay Street Circuit,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,18,Marina Bay Street Circuit,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,18,Marina Bay Street Circuit,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,18,Marina Bay Street Circuit,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,18,Marina Bay Street Circuit,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,18,Marina Bay Street Circuit,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,18,Marina Bay Street Circuit,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,18,Marina Bay Street Circuit,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,18,Marina Bay Street Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,18,Marina Bay Street Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,18,Marina Bay Street Circuit,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,18,Marina Bay Street Circuit,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,18,Marina Bay Street Circuit,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,18,Marina Bay Street Circuit,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,18,Marina Bay Street Circuit,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,18,Marina Bay Street Circuit,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,18,Marina Bay Street Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,18,Marina Bay Street Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,18,Marina Bay Street Circuit,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,18,Marina Bay Street Circuit,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,18,Marina Bay Street Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,18,Marina Bay Street Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,18,Marina Bay Street Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,18,Marina Bay Street Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,19,Circuit of the Americas,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,19,Circuit of the Americas,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,19,Circuit of the Americas,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,19,Circuit of the Americas,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,19,Circuit of the Americas,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,19,Circuit of the Americas,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,19,Circuit of the Americas,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,19,Circuit of the Americas,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,19,Circuit of the Americas,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,19,Circuit of the Americas,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,19,Circuit of the Americas,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,19,Circuit of the Americas,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,19,Circuit of the Americas,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,19,Circuit of the Americas,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,19,Circuit of the Americas,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,19,Circuit of the Americas,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,19,Circuit of the Americas,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,19,Circuit of the Americas,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,19,Circuit of the Americas,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,19,Circuit of the Americas,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,19,Circuit of the Americas,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,19,Circuit of the Americas,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,19,Circuit of the Americas,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,19,Circuit of the Americas,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,19,Circuit of the Americas,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,19,Circuit of the Americas,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,19,Circuit of the Americas,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,20,Autodromo Hermanos Rodriguez,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,21,Autodromo Jose Carlos Pace,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,22,Las Vegas Street Circuit,Street,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,22,Las Vegas Street Circuit,Street,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,22,Las Vegas Street Circuit,Street,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,22,Las Vegas Street Circuit,Street,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,22,Las Vegas Street Circuit,Street,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,22,Las Vegas Street Circuit,Street,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,22,Las Vegas Street Circuit,Street,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,22,Las Vegas Street Circuit,Street,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,22,Las Vegas Street Circuit,Street,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,22,Las Vegas Street Circuit,Street,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,22,Las Vegas Street Circuit,Street,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,22,Las Vegas Street Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,22,Las Vegas Street Circuit,Street,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,22,Las Vegas Street Circuit,Street,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,22,Las Vegas Street Circuit,Street,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,22,Las Vegas Street Circuit,Street,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,22,Las Vegas Street Circuit,Street,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,22,Las Vegas Street Circuit,Street,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,22,Las Vegas Street Circuit,Street,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,22,Las Vegas Street Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,22,Las Vegas Street Circuit,Street,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,22,Las Vegas Street Circuit,Street,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,22,Las Vegas Street Circuit,Street,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,22,Las Vegas Street Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,22,Las Vegas Street Circuit,Street,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,22,Las Vegas Street Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,22,Las Vegas Street Circuit,Street,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,23,Lusail International Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,23,Lusail International Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,23,Lusail International Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,23,Lusail International Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,23,Lusail International Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,23,Lusail International Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,23,Lusail International Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,23,Lusail International Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,23,Lusail International Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,23,Lusail International Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,23,Lusail International Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,23,Lusail International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,23,Lusail International Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,23,Lusail International Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,23,Lusail International Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,23,Lusail International Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,23,Lusail International Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,23,Lusail International Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,23,Lusail International Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,23,Lusail International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,23,Lusail International Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,23,Lusail International Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,23,Lusail International Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,23,Lusail International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,23,Lusail International Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,23,Lusail International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,23,Lusail International Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,24,Yas Marina Circuit,Permanent,piastri,Oscar,Piastri,McLaren,9,58.64,315.0,7,0.3695883074477996,632.0
+2026,24,Yas Marina Circuit,Permanent,norris,Lando,Norris,McLaren,6,75.60000000000001,299.0,5,0.2592063959062559,299.0
+2026,24,Yas Marina Circuit,Permanent,max_verstappen,Max,Verstappen,Red Bull,7,69.6,259.0,5,0.2453386602211224,279.0
+2026,24,Yas Marina Circuit,Permanent,russell,George,Russell,Mercedes,11,47.12,227.0,2,0.3259596108363718,311.0
+2026,24,Yas Marina Circuit,Permanent,leclerc,Charles,Leclerc,Ferrari,16,24.6,164.0,0,0.2209855490437061,287.0
+2026,24,Yas Marina Circuit,Permanent,hamilton,Lewis,Hamilton,Ferrari,20,4.24,111.0,0,0.2563630139817629,111.0
+2026,24,Yas Marina Circuit,Permanent,antonelli,Andrea Kimi,Antonelli,Mercedes,18,13.36,84.0,0,0.2094317565791714,84.0
+2026,24,Yas Marina Circuit,Permanent,albon,Alexander,Albon,Williams,20,-1.36,70.0,0,0.1888164067979544,70.0
+2026,24,Yas Marina Circuit,Permanent,hadjar,Isack,Hadjar,RB F1 Team,18,10.76,38.0,0,0.205559276393701,38.0
+2026,24,Yas Marina Circuit,Permanent,hulkenberg,Nico,Hülkenberg,Sauber,20,3.08,37.0,0,0.197441134142092,55.0
+2026,24,Yas Marina Circuit,Permanent,alonso,Fernando,Alonso,Aston Martin,19,5.44,36.0,0,0.1950736648529798,36.0
+2026,24,Yas Marina Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,24,Yas Marina Circuit,Permanent,lawson,Liam,Lawson,RB F1 Team,20,4.920000000000001,30.0,0,0.2262534796606038,68.0
+2026,24,Yas Marina Circuit,Permanent,sainz,Carlos,Sainz,Williams,19,9.36,29.0,0,0.1863014500996491,99.0
+2026,24,Yas Marina Circuit,Permanent,stroll,Lance,Stroll,Aston Martin,20,-2.4399999999999995,28.0,0,0.2440045235950608,65.0
+2026,24,Yas Marina Circuit,Permanent,ocon,Esteban,Ocon,Haas F1 Team,20,-2.0,24.0,0,0.1904980730234773,42.0
+2026,24,Yas Marina Circuit,Permanent,gasly,Pierre,Gasly,Alpine F1 Team,20,2.3200000000000003,19.0,0,0.1771138516455355,19.0
+2026,24,Yas Marina Circuit,Permanent,bortoleto,Gabriel,Bortoleto,Sauber,20,4.44,18.0,0,0.2822385680013045,18.0
+2026,24,Yas Marina Circuit,Permanent,bearman,Oliver,Bearman,Haas F1 Team,20,-0.0799999999999996,16.0,0,0.2322702808355924,16.0
+2026,24,Yas Marina Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,24,Yas Marina Circuit,Permanent,tsunoda,Yuki,Tsunoda,Red Bull,20,2.2,14.0,0,0.2545187875935522,14.0
+2026,24,Yas Marina Circuit,Permanent,doohan,Jack,Doohan,Alpine F1 Team,20,3.533333333333334,0.0,0,0.278083959480875,0.0
+2026,24,Yas Marina Circuit,Permanent,colapinto,Franco,Colapinto,Alpine F1 Team,20,4.2,0.0,0,0.2687864595638555,0.0
+2026,24,Yas Marina Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,24,Yas Marina Circuit,Permanent,lawson,Liam,Lawson,Red Bull,20,4.920000000000001,0.0,0,0.2403048372691419,0.0
+2026,24,Yas Marina Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0
+2026,24,Yas Marina Circuit,Permanent,tsunoda,Yuki,Tsunoda,RB F1 Team,20,2.2,0.0,0,0.2262043149547242,68.0

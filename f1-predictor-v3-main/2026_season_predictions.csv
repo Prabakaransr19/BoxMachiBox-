@@ -1,0 +1,25 @@
+round,circuit,country,circuit_type,predicted_winner,winner_team,winner_probability,second_choice,second_team,second_probability,third_choice,third_team,third_probability,confidence
+1,Bahrain International Circuit,Bahrain,Permanent,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.06918676,Lando Norris,McLaren,0.058609966,Low
+2,Jeddah Corniche Circuit,Saudi Arabia,Street,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.06918676,Lando Norris,McLaren,0.058609966,Low
+3,Albert Park Circuit,Australia,Permanent,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.06918676,Lando Norris,McLaren,0.058609966,Low
+4,Suzuka Circuit,Japan,Permanent,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.06918676,Lando Norris,McLaren,0.058609966,Low
+5,Shanghai International Circuit,China,Permanent,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.06918676,Lando Norris,McLaren,0.058609966,Low
+6,Miami International Autodrome,USA,Street,Oscar Piastri,McLaren,0.09818008,George Russell,Mercedes,0.066215724,Lando Norris,McLaren,0.056065764,Low
+7,Autodromo Enzo e Dino Ferrari,Italy,Permanent,Oscar Piastri,McLaren,0.105568424,George Russell,Mercedes,0.07138909,Lando Norris,McLaren,0.060497552,Low
+8,Circuit de Monaco,Monaco,Street,Oscar Piastri,McLaren,0.105568424,George Russell,Mercedes,0.07138909,Lando Norris,McLaren,0.060497552,Low
+9,Circuit de Barcelona-Catalunya,Spain,Permanent,Oscar Piastri,McLaren,0.105568424,George Russell,Mercedes,0.07138909,Lando Norris,McLaren,0.060497552,Low
+10,Circuit Gilles Villeneuve,Canada,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+11,Red Bull Ring,Austria,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+12,Silverstone Circuit,UK,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+13,Hungaroring,Hungary,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+14,Circuit de Spa-Francorchamps,Belgium,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+15,Circuit Zandvoort,Netherlands,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+16,Autodromo Nazionale di Monza,Italy,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+17,Baku City Circuit,Azerbaijan,Street,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+18,Marina Bay Street Circuit,Singapore,Street,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+19,Circuit of the Americas,USA,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+20,Autodromo Hermanos Rodriguez,Mexico,Permanent,Oscar Piastri,McLaren,0.10359569,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+21,Autodromo Jose Carlos Pace,Brazil,Permanent,Oscar Piastri,McLaren,0.09739138,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+22,Las Vegas Street Circuit,USA,Street,Oscar Piastri,McLaren,0.09739138,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+23,Lusail International Circuit,Qatar,Permanent,Oscar Piastri,McLaren,0.09739138,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
+24,Yas Marina Circuit,UAE,Permanent,Oscar Piastri,McLaren,0.09739138,George Russell,Mercedes,0.07000505,Lando Norris,McLaren,0.05931119,Low
