@@ -9,8 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "#101616",
+        foreground: "#ededed",
+        "bmb-bg": "#101616",
+        "bmb-card": "#1a1f1f",
+        "bmb-accent-red": "#cf3535",
+        "bmb-accent-cyan": "#2a9d8f",
+      },
+      fontFamily: {
+        sans: ["var(--font-inter)"],
       },
     },
   },
