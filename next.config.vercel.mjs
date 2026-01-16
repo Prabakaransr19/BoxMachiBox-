@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
+// Configuration for Vercel deployment (dynamic rendering, SSR support)
 const nextConfig = {
-  // Static export removed - use Vercel/Netlify for full functionality
-  // For GitHub Pages, some dynamic pages won't work
   images: {
     unoptimized: true,
   },
