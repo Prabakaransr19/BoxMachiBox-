@@ -1,8 +1,8 @@
 import { fetchStandingsData } from "@/lib/api";
 import { DriverCard } from "@/components/driver-card";
 
-// Mark as dynamic to skip during static export
-export const dynamic = 'error';
+// Force dynamic rendering for pages with runtime data fetching
+export const dynamic = 'force-dynamic';
 
 export default async function DriverInfoPage() {
     try {

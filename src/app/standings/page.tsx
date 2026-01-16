@@ -1,8 +1,8 @@
 import { StandingsView } from "@/components/standings-view";
 import { fetchStandingsData } from "@/lib/api";
 
-// Mark as dynamic to skip during static export
-export const dynamic = 'error';
+// Force dynamic rendering for pages with runtime data fetching
+export const dynamic = 'force-dynamic';
 
 export default async function StandingsPage() {
     try {
