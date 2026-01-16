@@ -1,36 +1,192 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BoxMachiBox 🏎️
 
-## Getting Started
+An advanced Formula 1 analysis and prediction platform combining AI-powered predictions, real-time data analysis, and interactive visualizations.
 
-First, run the development server:
+## 🎯 Project Overview
+
+This repository contains three integrated applications:
+
+1. **Next.js Frontend** - Modern, responsive F1 analysis platform
+2. **FastAPI Backend** - High-performance prediction API (93.89% accuracy)
+3. **Streamlit Dashboard** - Interactive data science dashboard
+
+## 🚀 Quick Start
+
+### Frontend (Next.js)
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Backend API (FastAPI)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+cd BoxMachiBox-API
 
-## Learn More
+# Install dependencies
+pip install -r requirements.txt
 
-To learn more about Next.js, take a look at the following resources:
+# Run API server
+uvicorn main:app --reload
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+API documentation available at [http://localhost:8000/docs](http://localhost:8000/docs)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Streamlit Dashboard
 
-## Deploy on Vercel
+```bash
+# Install dependencies
+pip install -r requirements.txt
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Run dashboard
+streamlit run app_production.py
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Dashboard available at [http://localhost:8501](http://localhost:8501)
+
+## 📦 Deployment
+
+**For complete deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)**
+
+Quick deployment options:
+- ✅ **Vercel** - Recommended for Next.js frontend
+- ✅ **GitHub Pages** - Already configured (auto-deploys on push to main)
+- ✅ **Render/Railway** - Recommended for FastAPI backend
+- ✅ **Streamlit Cloud** - Recommended for Streamlit dashboard
+- ✅ **Docker** - For local or cloud deployment of all services
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js 14
+- React 18
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- Lucide Icons
+
+### Backend
+- FastAPI
+- Python 3.11
+- XGBoost ML Model
+- Pydantic
+- Uvicorn
+
+### Data Science
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
+- Scikit-learn
+
+## 📁 Project Structure
+
+```
+BoxMachiBox-/
+├── src/                    # Next.js frontend source
+│   ├── app/               # App router pages
+│   ├── components/        # React components
+│   ├── lib/               # Utilities
+│   └── types/             # TypeScript types
+├── BoxMachiBox-API/       # FastAPI backend
+│   ├── main.py           # API application
+│   ├── models/           # ML models
+│   └── requirements.txt  # Python dependencies
+├── public/                # Static assets
+├── app_production.py      # Streamlit dashboard
+├── docker-compose.yml     # Docker orchestration
+└── DEPLOYMENT.md          # Deployment guide
+```
+
+## 🎨 Features
+
+### Frontend Features
+- Interactive F1 race analysis
+- Real-time predictions
+- Driver comparisons
+- Team standings
+- Responsive design
+- Dark mode optimized
+
+### API Features
+- Podium prediction endpoint
+- Driver and circuit data
+- Model performance metrics
+- OpenAPI documentation
+- CORS enabled
+
+### Dashboard Features
+- Interactive race predictions
+- Driver analysis & comparisons
+- 2026 season outlook
+- Model performance stats
+- Real-time visualizations
+
+## 🔧 Development
+
+### Prerequisites
+- Node.js 18+ (for frontend)
+- Python 3.8+ (for backend/dashboard)
+- npm or yarn
+- pip
+
+### Environment Variables
+
+Create `.env.local` for frontend:
+```bash
+NEXT_PUBLIC_API_URL=http://localhost:8000
+```
+
+See `.env.example` files for complete configuration options.
+
+## 🧪 Testing
+
+```bash
+# Frontend
+npm run lint
+
+# Backend
+cd BoxMachiBox-API
+python -m pytest
+
+# Type checking
+npm run type-check
+```
+
+## 📊 Model Information
+
+- **Model Type:** XGBoost Ensemble
+- **Accuracy:** 93.89%
+- **Training Data:** 1,838 samples (2022-2024 seasons)
+- **Features:** Qualifying position, recent form, circuit mastery, weather conditions
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is private and proprietary.
+
+## 🔗 Links
+
+- [Deployment Guide](./DEPLOYMENT.md)
+- [FastAPI Documentation](http://localhost:8000/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
+
+## 📞 Support
+
+For issues and questions, please open an issue in the GitHub repository.
+
+---
+
+**Built with ❤️ for Formula 1 enthusiasts**
